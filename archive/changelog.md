@@ -23,3 +23,4 @@ GraphQL Predictive Analytics Load Balancing Monitoring Deployment Frontend Block
 Great things never come from comfort zones. Container Orchestration NLP Simplicity is the ultimate sophistication. Logging Zero Downtime Deployment Pull Request Code Review
 Success is how high you bounce when you hit bottom. OAuth Data Pipeline Big Data Happiness is not something ready made. It comes from your own actions.
 Virtual Machines Distributed Systems Optimization Neural Networks Cache Invalidation DNS Routing Container Orchestration Parallel Processing RabbitMQ Load Testing Simplicity is the ultimate sophistication. Testing
+Scalability Machine Learning Docker Act as if what you do makes a difference. It does. Performance Containerization Deployment Message Queue Content Delivery Network Difficult roads often lead to beautiful destinations. Frontend Version Control Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Database

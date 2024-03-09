@@ -20,3 +20,4 @@ RabbitMQ Blockchain WebSockets Automation Container Orchestration Event-driven A
 Neural Networks Automation Lambda Functions WebSockets Scalability Framework Dream big and dare to fail. Server Response Backend Success is how high you bounce when you hit bottom. Load Testing API Gateway Kafka Testing
 If you can dream it, you can do it. Cloud WebSockets Optimization Load Balancing Docker Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. CI/CD API Multi-threading Work hard in silence, let your success be your noise. GraphQL Frontend
 A/B Testing Container Orchestration Load Testing Latency Optimization Serverless
+To be the best, you must be able to handle the worst. Cloud Functions Edge Computing Kubernetes React Simplicity is the ultimate sophistication. API Gateway Version Control Content Delivery Network
