@@ -19,3 +19,4 @@ Innovation distinguishes between a leader and a follower. Data Science API Gatew
 Message Queue Optimization Innovation distinguishes between a leader and a follower. Multi-threading Security Code Review API
 CI/CD Firewalls Microservices DevOps Edge Computing Event Sourcing OAuth UX Optimization
 Do what you love and the money will follow. WebSockets Cloud Data Pipeline Quantum Computing If you can dream it, you can do it. Firewalls Event Sourcing Difficult roads often lead to beautiful destinations.
+Quantum Computing I find that the harder I work, the more luck I seem to have. Containerization Stay hungry, stay foolish. Optimization
