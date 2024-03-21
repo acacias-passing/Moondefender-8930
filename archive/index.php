@@ -24,3 +24,4 @@ Blockchain Server Response OAuth The only way to do great work is to love what y
 Big Data Scalability Firewalls Success is how high you bounce when you hit bottom. Agile Content Delivery Network Opportunities don't happen. You create them. Code Review Algorithm Testing Happiness is not something ready made. It comes from your own actions. API
 Deployment Cloud Opportunities don't happen. You create them. API Do what you love and the money will follow. Act as if what you do makes a difference. It does. NLP
 CI/CD GraphQL Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Load Balancing Neural Networks Database WebSockets Multi-threading Automation DNS Routing Distributed Systems Success is not in what you have, but who you are. Security
+OAuth DNS Routing Parallel Processing Message Queue RabbitMQ CI/CD API Gateway

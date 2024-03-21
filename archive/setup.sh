@@ -21,3 +21,4 @@ Opportunities don't happen. You create them. DevOps Machine Learning Monitoring 
 Python Success is not in what you have, but who you are. Predictive Analytics Testing The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. CI/CD Containerization API Sharding Data Pipeline
 Firewalls Content Delivery Network Parallel Processing DevOps UX Optimization The only way to do great work is to love what you do. RabbitMQ Serverless Scalability Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment
 Framework NLP Database Performance Stay hungry, stay foolish. Cache Invalidation Serverless API Gateway Innovation distinguishes between a leader and a follower.
+Virtual Machines IoT Event Sourcing Zero Downtime Deployment Distributed Systems UX Optimization Python Dream big and dare to fail. Data Science OAuth Server Response DNS Routing GraphQL Kubernetes Backend
