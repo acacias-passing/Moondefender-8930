@@ -15,3 +15,4 @@ Performance Big Data Database Indexing WebSockets NLP Security Kafka Optimizatio
 Message Queue RabbitMQ Containerization Database Indexing Monitoring Lambda Functions Difficult roads often lead to beautiful destinations. Backend Dream big and dare to fail. Cache Invalidation
 Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Load Testing Don't be afraid to give up the good to go for the great.
 JavaScript Opportunities don't happen. You create them. Content Delivery Network Serverless Automation Event Sourcing React CI/CD Frontend Container Orchestration Don't be afraid to give up the good to go for the great. Quantum Computing DevOps Testing
+GraphQL Firewalls Cache Invalidation Happiness is not something ready made. It comes from your own actions. Database Indexing Framework Don't be afraid to give up the good to go for the great. Lambda Functions
