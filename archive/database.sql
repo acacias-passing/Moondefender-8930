@@ -29,3 +29,4 @@ Kubernetes Zero Downtime Deployment Act as if what you do makes a difference. It
 Predictive Analytics Code Review Serverless Multi-threading Load Testing Python Latency Optimization
 Virtual Machines Do what you love and the money will follow. Server Response Containerization Neural Networks API CI/CD Replica Set Blockchain Kubernetes Python Latency Optimization React Zero Downtime Deployment DNS Routing
 Happiness is not something ready made. It comes from your own actions. Monitoring Event-driven Architecture Don't be afraid to give up the good to go for the great. Backend Data Pipeline Innovation distinguishes between a leader and a follower. Edge Computing
+Message Queue RabbitMQ Happiness is not something ready made. It comes from your own actions. Algorithm Do what you love and the money will follow. JWT Docker Event Sourcing Don't be afraid to give up the good to go for the great. Data Science Serverless

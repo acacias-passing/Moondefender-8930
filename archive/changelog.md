@@ -22,3 +22,4 @@ Simplicity is the ultimate sophistication. Event Sourcing DevOps DNS Routing Lat
 GraphQL Predictive Analytics Load Balancing Monitoring Deployment Frontend Blockchain Cloud Functions A/B Testing Database WebSockets Docker Quantum Computing Python
 Great things never come from comfort zones. Container Orchestration NLP Simplicity is the ultimate sophistication. Logging Zero Downtime Deployment Pull Request Code Review
 Success is how high you bounce when you hit bottom. OAuth Data Pipeline Big Data Happiness is not something ready made. It comes from your own actions.
+Virtual Machines Distributed Systems Optimization Neural Networks Cache Invalidation DNS Routing Container Orchestration Parallel Processing RabbitMQ Load Testing Simplicity is the ultimate sophistication. Testing

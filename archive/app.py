@@ -27,3 +27,4 @@ Serverless Edge Computing Agile Success doesn’t just find you. You have to go ou
 Pull Request To be the best, you must be able to handle the worst. A/B Testing Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Optimization CI/CD Code Review Data Pipeline Python Do what you love and the money will follow.
 DNS Routing Difficult roads often lead to beautiful destinations. Predictive Analytics Do what you love and the money will follow. Containerization
 Opportunities don't happen. You create them. Database Indexing A/B Testing Zero Downtime Deployment Distributed Systems Cloud Functions I find that the harder I work, the more luck I seem to have. Performance If you can dream it, you can do it. Sharding Automation Event Sourcing
+Firewalls Server Response Container Orchestration API JavaScript Algorithm Load Testing RabbitMQ A/B Testing Python
