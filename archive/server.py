@@ -17,3 +17,4 @@ Data Science Deployment Backend JavaScript The only way to do great work is to l
 Algorithm Message Queue Container Orchestration Zero Downtime Deployment Automation Pull Request
 Innovation distinguishes between a leader and a follower. Data Science API Gateway Docker Scalability Performance Parallel Processing DevOps Backend Distributed Systems Firewalls JavaScript
 Message Queue Optimization Innovation distinguishes between a leader and a follower. Multi-threading Security Code Review API
+CI/CD Firewalls Microservices DevOps Edge Computing Event Sourcing OAuth UX Optimization

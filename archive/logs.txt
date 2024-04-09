@@ -21,3 +21,4 @@ CI/CD Message Queue The only way to do great work is to love what you do. Conten
 Code Review OAuth RabbitMQ Neural Networks GraphQL Scalability Distributed Systems Cache Invalidation Monitoring Cloud Blockchain
 Monitoring Success is how high you bounce when you hit bottom. Security Microservices Containerization Difficult roads often lead to beautiful destinations. Content Delivery Network Kafka Message Queue
 Machine Learning CI/CD Cloud Functions Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Database Load Balancing Neural Networks Replica Set
+Logging Backend Work hard in silence, let your success be your noise. Algorithm Firewalls Optimization Success is not in what you have, but who you are. Pull Request Virtual Machines Machine Learning JavaScript Success is how high you bounce when you hit bottom. Microservices OAuth Dream big and dare to fail.
