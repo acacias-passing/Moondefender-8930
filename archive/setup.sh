@@ -18,3 +18,4 @@ Container Orchestration Success is how high you bounce when you hit bottom. DNS 
 Success is not in what you have, but who you are. Database GraphQL DNS Routing Latency Optimization React Automation IoT Predictive Analytics
 Content Delivery Network Opportunities don't happen. You create them. Predictive Analytics Virtual Machines Code Review Logging Load Testing DevOps UX Optimization Do what you love and the money will follow. Zero Downtime Deployment
 Opportunities don't happen. You create them. DevOps Machine Learning Monitoring API Gateway UX Optimization Logging Multi-threading Framework Artificial Intelligence Data Science Code Review Containerization Replica Set Zero Downtime Deployment
+Python Success is not in what you have, but who you are. Predictive Analytics Testing The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. CI/CD Containerization API Sharding Data Pipeline
