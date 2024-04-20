@@ -20,3 +20,4 @@ RabbitMQ WebSockets GraphQL I find that the harder I work, the more luck I seem 
 WebSockets Latency Optimization Containerization Testing Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations.
 Containerization Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Testing Framework
 DNS Routing Performance Success is how high you bounce when you hit bottom. Scalability Load Balancing Zero Downtime Deployment Backend Containerization Logging Cache Invalidation
+Latency Optimization Virtual Machines Event Sourcing Database Predictive Analytics Neural Networks OAuth
