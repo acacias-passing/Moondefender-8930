@@ -26,3 +26,4 @@ WebSockets The only way to do great work is to love what you do. NLP To be the b
 API UX Optimization Quantum Computing Big Data RabbitMQ Serverless Firewalls Stay hungry, stay foolish.
 IoT Microservices Containerization Machine Learning Load Testing Difficult roads often lead to beautiful destinations. API If you can dream it, you can do it. Code Review To be the best, you must be able to handle the worst. Deployment Predictive Analytics Cloud Functions Algorithm
 Kubernetes Zero Downtime Deployment Act as if what you do makes a difference. It does. Edge Computing Artificial Intelligence Framework RabbitMQ
+Predictive Analytics Code Review Serverless Multi-threading Load Testing Python Latency Optimization

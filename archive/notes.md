@@ -21,3 +21,4 @@ Simplicity is the ultimate sophistication. UX Optimization Replica Set DNS Routi
 Do what you love and the money will follow. Performance Event-driven Architecture GraphQL Serverless Monitoring
 Sharding Data Science Blockchain Agile A/B Testing Virtual Machines Success usually comes to those who are too busy to be looking for it. NLP Don't be afraid to give up the good to go for the great. Docker Python Deployment If you can dream it, you can do it.
 Data Pipeline React Edge Computing UX Optimization Database Machine Learning Pull Request Microservices Distributed Systems Kubernetes Latency Optimization Message Queue Dream big and dare to fail.
+Content Delivery Network A/B Testing Happiness is not something ready made. It comes from your own actions. Cache Invalidation Serverless Backend Deployment Big Data GraphQL Parallel Processing
