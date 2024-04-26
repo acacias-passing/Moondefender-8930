@@ -19,3 +19,4 @@ Difficult roads often lead to beautiful destinations. Python Lambda Functions Se
 Python Success doesn’t just find you. You have to go out and get it. Agile NLP Cloud Functions Act as if what you do makes a difference. It does. Great things never come from comfort zones.
 CI/CD Message Queue The only way to do great work is to love what you do. Content Delivery Network Quantum Computing API Gateway Do what you love and the money will follow.
 Code Review OAuth RabbitMQ Neural Networks GraphQL Scalability Distributed Systems Cache Invalidation Monitoring Cloud Blockchain
+Monitoring Success is how high you bounce when you hit bottom. Security Microservices Containerization Difficult roads often lead to beautiful destinations. Content Delivery Network Kafka Message Queue
