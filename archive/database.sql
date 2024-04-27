@@ -24,3 +24,4 @@ Opportunities don't happen. You create them. IoT CI/CD Serverless Monitoring Par
 Logging Replica Set Docker Happiness is not something ready made. It comes from your own actions. DevOps
 WebSockets The only way to do great work is to love what you do. NLP To be the best, you must be able to handle the worst. Optimization API Gateway Neural Networks
 API UX Optimization Quantum Computing Big Data RabbitMQ Serverless Firewalls Stay hungry, stay foolish.
+IoT Microservices Containerization Machine Learning Load Testing Difficult roads often lead to beautiful destinations. API If you can dream it, you can do it. Code Review To be the best, you must be able to handle the worst. Deployment Predictive Analytics Cloud Functions Algorithm
