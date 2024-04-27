@@ -21,3 +21,4 @@ Cache Invalidation Serverless Firewalls Lambda Functions I find that the harder 
 IoT The only way to do great work is to love what you do. Sharding Scalability Act as if what you do makes a difference. It does. Server Response Latency Optimization CI/CD Deployment I find that the harder I work, the more luck I seem to have. UX Optimization Version Control
 Replica Set Event Sourcing GraphQL Agile Serverless Simplicity is the ultimate sophistication. DNS Routing Success is not in what you have, but who you are. Firewalls Machine Learning Innovation distinguishes between a leader and a follower.
 Blockchain Server Response OAuth The only way to do great work is to love what you do. Testing Docker
+Big Data Scalability Firewalls Success is how high you bounce when you hit bottom. Agile Content Delivery Network Opportunities don't happen. You create them. Code Review Algorithm Testing Happiness is not something ready made. It comes from your own actions. API
