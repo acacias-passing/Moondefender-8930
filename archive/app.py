@@ -25,3 +25,4 @@ Algorithm Containerization Container Orchestration I find that the harder I work
 Docker CI/CD RabbitMQ Success is not in what you have, but who you are. React Message Queue Version Control Container Orchestration Cloud Frontend Success is how high you bounce when you hit bottom.
 Serverless Edge Computing Agile Success doesn’t just find you. You have to go out and get it. IoT Performance Innovation distinguishes between a leader and a follower. API UX Optimization
 Pull Request To be the best, you must be able to handle the worst. A/B Testing Difficult roads often lead to beautiful destinations. I find that the harder I work, the more luck I seem to have. Optimization CI/CD Code Review Data Pipeline Python Do what you love and the money will follow.
+DNS Routing Difficult roads often lead to beautiful destinations. Predictive Analytics Do what you love and the money will follow. Containerization
