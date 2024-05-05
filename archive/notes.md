@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Database Indexing RabbitMQ Par
 Distributed Systems Do what you love and the money will follow. Serverless Framework Work hard in silence, let your success be your noise.
 Simplicity is the ultimate sophistication. UX Optimization Replica Set DNS Routing Innovation distinguishes between a leader and a follower. Edge Computing Predictive Analytics Optimization Serverless Big Data Sharding OAuth
 Do what you love and the money will follow. Performance Event-driven Architecture GraphQL Serverless Monitoring
+Sharding Data Science Blockchain Agile A/B Testing Virtual Machines Success usually comes to those who are too busy to be looking for it. NLP Don't be afraid to give up the good to go for the great. Docker Python Deployment If you can dream it, you can do it.
