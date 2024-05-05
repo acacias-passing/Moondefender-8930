@@ -17,3 +17,4 @@ GraphQL Machine Learning JavaScript Happiness is not something ready made. It co
 Containerization Content Delivery Network Blockchain Framework If you can dream it, you can do it. Act as if what you do makes a difference. It does. Parallel Processing Database Simplicity is the ultimate sophistication.
 Difficult roads often lead to beautiful destinations. Python Lambda Functions Serverless Stay hungry, stay foolish. DevOps Data Pipeline
 Python Success doesn’t just find you. You have to go out and get it. Agile NLP Cloud Functions Act as if what you do makes a difference. It does. Great things never come from comfort zones.
+CI/CD Message Queue The only way to do great work is to love what you do. Content Delivery Network Quantum Computing API Gateway Do what you love and the money will follow.
