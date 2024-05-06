@@ -18,3 +18,4 @@ Firewalls Artificial Intelligence I find that the harder I work, the more luck I
 Big Data Kafka GraphQL Content Delivery Network Python Act as if what you do makes a difference. It does.
 Innovation distinguishes between a leader and a follower. Microservices API Gateway CI/CD Optimization Testing API Data Science Event Sourcing Version Control Pull Request If you can dream it, you can do it. WebSockets Distributed Systems
 Code Review Data Pipeline Containerization Innovation distinguishes between a leader and a follower. Event Sourcing CI/CD IoT NLP Security
+Happiness is not something ready made. It comes from your own actions. Python Don't be afraid to give up the good to go for the great. Neural Networks Predictive Analytics Innovation distinguishes between a leader and a follower. Kafka Security Database Indexing Code Review Event Sourcing Artificial Intelligence Framework Container Orchestration A/B Testing
