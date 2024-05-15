@@ -16,3 +16,4 @@ Great things never come from comfort zones. NLP Kafka Code Review Happiness is n
 API Quantum Computing Microservices Backend JWT Logging Firewalls Data Pipeline Success is how high you bounce when you hit bottom.
 Container Orchestration Success is how high you bounce when you hit bottom. DNS Routing Containerization DevOps Kubernetes Backend Event Sourcing Firewalls Quantum Computing Don't be afraid to give up the good to go for the great. React
 Success is not in what you have, but who you are. Database GraphQL DNS Routing Latency Optimization React Automation IoT Predictive Analytics
+Content Delivery Network Opportunities don't happen. You create them. Predictive Analytics Virtual Machines Code Review Logging Load Testing DevOps UX Optimization Do what you love and the money will follow. Zero Downtime Deployment

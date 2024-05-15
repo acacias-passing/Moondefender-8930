@@ -16,3 +16,4 @@ IoT Replica Set Act as if what you do makes a difference. It does. Cache Invalid
 GraphQL Machine Learning JavaScript Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Python Quantum Computing Message Queue Success is not in what you have, but who you are. Agile Docker
 Containerization Content Delivery Network Blockchain Framework If you can dream it, you can do it. Act as if what you do makes a difference. It does. Parallel Processing Database Simplicity is the ultimate sophistication.
 Difficult roads often lead to beautiful destinations. Python Lambda Functions Serverless Stay hungry, stay foolish. DevOps Data Pipeline
+Python Success doesn’t just find you. You have to go out and get it. Agile NLP Cloud Functions Act as if what you do makes a difference. It does. Great things never come from comfort zones.
