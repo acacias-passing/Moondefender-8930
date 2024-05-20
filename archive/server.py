@@ -14,3 +14,4 @@ Optimization Kubernetes Simplicity is the ultimate sophistication. UX Optimizati
 Do what you love and the money will follow. Big Data Blockchain NLP Success usually comes to those who are too busy to be looking for it. Cache Invalidation Database Indexing IoT Database Work hard in silence, let your success be your noise. Zero Downtime Deployment Load Balancing Replica Set
 Cache Invalidation Innovation distinguishes between a leader and a follower. Load Balancing Machine Learning Python Data Pipeline Do what you love and the money will follow.
 Data Science Deployment Backend JavaScript The only way to do great work is to love what you do. Zero Downtime Deployment React Do what you love and the money will follow. DNS Routing Success is not in what you have, but who you are. OAuth Code Review WebSockets Machine Learning Edge Computing
+Algorithm Message Queue Container Orchestration Zero Downtime Deployment Automation Pull Request

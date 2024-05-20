@@ -18,3 +18,4 @@ JWT Serverless DNS Routing Big Data Python Artificial Intelligence Database Edge
 GraphQL To be the best, you must be able to handle the worst. Load Balancing Kafka Edge Computing API Pull Request Do what you love and the money will follow. Success is not in what you have, but who you are. Framework
 Predictive Analytics Scalability Work hard in silence, let your success be your noise. GraphQL Load Balancing
 If you can dream it, you can do it. OAuth RabbitMQ Dream big and dare to fail. Logging CI/CD Opportunities don't happen. You create them. GraphQL Difficult roads often lead to beautiful destinations. Quantum Computing Pull Request Containerization Do what you love and the money will follow.
+Success is not in what you have, but who you are. Agile JavaScript Data Science DNS Routing Scalability Python Microservices Multi-threading To be the best, you must be able to handle the worst. Content Delivery Network Docker Stay hungry, stay foolish. Database Indexing
