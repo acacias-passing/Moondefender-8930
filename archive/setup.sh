@@ -15,3 +15,4 @@ Microservices Success doesn’t just find you. You have to go out and get it. Dist
 Great things never come from comfort zones. NLP Kafka Code Review Happiness is not something ready made. It comes from your own actions. Microservices Event Sourcing Containerization OAuth Simplicity is the ultimate sophistication. API Gateway Artificial Intelligence
 API Quantum Computing Microservices Backend JWT Logging Firewalls Data Pipeline Success is how high you bounce when you hit bottom.
 Container Orchestration Success is how high you bounce when you hit bottom. DNS Routing Containerization DevOps Kubernetes Backend Event Sourcing Firewalls Quantum Computing Don't be afraid to give up the good to go for the great. React
+Success is not in what you have, but who you are. Database GraphQL DNS Routing Latency Optimization React Automation IoT Predictive Analytics
