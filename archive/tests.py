@@ -16,3 +16,4 @@ Success is not in what you have, but who you are. Containerization Act as if wha
 Frontend The only way to do great work is to love what you do. Machine Learning Database Indexing Serverless CI/CD Simplicity is the ultimate sophistication. Backend Database Content Delivery Network Testing Pull Request Latency Optimization Logging
 Firewalls Artificial Intelligence I find that the harder I work, the more luck I seem to have. Latency Optimization Data Pipeline JWT Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it.
 Big Data Kafka GraphQL Content Delivery Network Python Act as if what you do makes a difference. It does.
+Innovation distinguishes between a leader and a follower. Microservices API Gateway CI/CD Optimization Testing API Data Science Event Sourcing Version Control Pull Request If you can dream it, you can do it. WebSockets Distributed Systems
