@@ -17,3 +17,4 @@ Data Science Agile Big Data React Frontend API Event Sourcing
 Security UX Optimization Distributed Systems Automation Virtual Machines Deployment Act as if what you do makes a difference. It does. DNS Routing Simplicity is the ultimate sophistication. Database Indexing
 Success is not in what you have, but who you are. Database Indexing RabbitMQ Parallel Processing IoT Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Cloud Load Testing Testing Dream big and dare to fail. Simplicity is the ultimate sophistication. Serverless API Gateway
 Distributed Systems Do what you love and the money will follow. Serverless Framework Work hard in silence, let your success be your noise.
+Simplicity is the ultimate sophistication. UX Optimization Replica Set DNS Routing Innovation distinguishes between a leader and a follower. Edge Computing Predictive Analytics Optimization Serverless Big Data Sharding OAuth
