@@ -9,3 +9,4 @@ Neural Networks Logging Do what you love and the money will follow. UX Optimizat
 Opportunities don't happen. You create them. Framework Machine Learning OAuth If you can dream it, you can do it. Frontend Event Sourcing
 Dream big and dare to fail. Code Review Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Algorithm Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Scalability Python API Kubernetes
 Frontend Artificial Intelligence RabbitMQ Load Balancing Cloud Deployment Opportunities don't happen. You create them.
+Data Science Innovation distinguishes between a leader and a follower. Replica Set NLP Opportunities don't happen. You create them. Serverless Dream big and dare to fail. Quantum Computing Docker Big Data Monitoring Framework Event Sourcing Load Testing Simplicity is the ultimate sophistication.

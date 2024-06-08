@@ -22,3 +22,4 @@ Success usually comes to those who are too busy to be looking for it. The only w
 Pull Request Kubernetes Virtual Machines Monitoring Quantum Computing Data Science
 To be the best, you must be able to handle the worst. Message Queue Edge Computing Great things never come from comfort zones. NLP
 Algorithm Containerization Container Orchestration I find that the harder I work, the more luck I seem to have. JavaScript Microservices
+Docker CI/CD RabbitMQ Success is not in what you have, but who you are. React Message Queue Version Control Container Orchestration Cloud Frontend Success is how high you bounce when you hit bottom.

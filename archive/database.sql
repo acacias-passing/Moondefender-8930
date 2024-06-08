@@ -22,3 +22,4 @@ Deployment Message Queue Backend Cloud CI/CD Cache Invalidation I find that the 
 To be the best, you must be able to handle the worst. Frontend Optimization Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Code Review
 Opportunities don't happen. You create them. IoT CI/CD Serverless Monitoring Parallel Processing Work hard in silence, let your success be your noise. Agile Docker Success is how high you bounce when you hit bottom. Cache Invalidation Framework
 Logging Replica Set Docker Happiness is not something ready made. It comes from your own actions. DevOps
+WebSockets The only way to do great work is to love what you do. NLP To be the best, you must be able to handle the worst. Optimization API Gateway Neural Networks
