@@ -17,3 +17,4 @@ Agile Success is how high you bounce when you hit bottom. Logging The only way t
 Agile Great things never come from comfort zones. Multi-threading Pull Request Simplicity is the ultimate sophistication.
 Simplicity is the ultimate sophistication. Monitoring Container Orchestration Don't be afraid to give up the good to go for the great. GraphQL
 Database Cache Invalidation Predictive Analytics Cloud Kafka Content Delivery Network Latency Optimization Containerization
+Database Indexing Replica Set Container Orchestration Message Queue Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it.
