@@ -11,3 +11,4 @@ Success is how high you bounce when you hit bottom. Blockchain Microservices Zer
 Difficult roads often lead to beautiful destinations. Cache Invalidation Replica Set Deployment Parallel Processing Firewalls
 A/B Testing Difficult roads often lead to beautiful destinations. IoT Load Balancing Code Review Database Cache Invalidation
 Success doesn’t just find you. You have to go out and get it. Security JWT DNS Routing WebSockets Cloud Functions Performance Message Queue Success is not in what you have, but who you are. Pull Request Quantum Computing Docker Opportunities don't happen. You create them. Event-driven Architecture
+Event Sourcing Cloud Functions Artificial Intelligence Automation Framework Stay hungry, stay foolish. UX Optimization Blockchain Success doesn’t just find you. You have to go out and get it.

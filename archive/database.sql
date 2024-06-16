@@ -21,3 +21,4 @@ Event Sourcing Predictive Analytics Scalability JWT The only way to do great wor
 Deployment Message Queue Backend Cloud CI/CD Cache Invalidation I find that the harder I work, the more luck I seem to have. Load Testing
 To be the best, you must be able to handle the worst. Frontend Optimization Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Code Review
 Opportunities don't happen. You create them. IoT CI/CD Serverless Monitoring Parallel Processing Work hard in silence, let your success be your noise. Agile Docker Success is how high you bounce when you hit bottom. Cache Invalidation Framework
+Logging Replica Set Docker Happiness is not something ready made. It comes from your own actions. DevOps
