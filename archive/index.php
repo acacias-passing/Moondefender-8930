@@ -17,3 +17,4 @@ Cloud Functions A/B Testing Data Pipeline Multi-threading JavaScript Simplicity 
 JWT Framework I find that the harder I work, the more luck I seem to have. Server Response Algorithm DNS Routing Docker React Backend Success doesn’t just find you. You have to go out and get it. Load Balancing Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Containerization
 Version Control GraphQL Big Data Happiness is not something ready made. It comes from your own actions. Container Orchestration IoT Virtual Machines
 Serverless Big Data I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Framework Automation Distributed Systems Innovation distinguishes between a leader and a follower. Performance
+Cache Invalidation Serverless Firewalls Lambda Functions I find that the harder I work, the more luck I seem to have.
