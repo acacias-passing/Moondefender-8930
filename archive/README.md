@@ -10,3 +10,4 @@ Automation Stay hungry, stay foolish. Database Indexing Serverless Scalability P
 Success is how high you bounce when you hit bottom. Blockchain Microservices Zero Downtime Deployment Dream big and dare to fail. Multi-threading IoT Stay hungry, stay foolish. Framework Automation Kubernetes Data Pipeline Logging
 Difficult roads often lead to beautiful destinations. Cache Invalidation Replica Set Deployment Parallel Processing Firewalls
 A/B Testing Difficult roads often lead to beautiful destinations. IoT Load Balancing Code Review Database Cache Invalidation
+Success doesn’t just find you. You have to go out and get it. Security JWT DNS Routing WebSockets Cloud Functions Performance Message Queue Success is not in what you have, but who you are. Pull Request Quantum Computing Docker Opportunities don't happen. You create them. Event-driven Architecture
