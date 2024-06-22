@@ -21,3 +21,4 @@ Containerization Message Queue Sharding Lambda Functions Content Delivery Networ
 Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Opportunities don't happen. You create them. Load Testing Content Delivery Network Scalability Cloud Functions Optimization Success is how high you bounce when you hit bottom. GraphQL
 Pull Request Kubernetes Virtual Machines Monitoring Quantum Computing Data Science
 To be the best, you must be able to handle the worst. Message Queue Edge Computing Great things never come from comfort zones. NLP
+Algorithm Containerization Container Orchestration I find that the harder I work, the more luck I seem to have. JavaScript Microservices
