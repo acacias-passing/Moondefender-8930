@@ -16,3 +16,4 @@ Stay hungry, stay foolish. Load Testing DNS Routing UX Optimization Zero Downtim
 A/B Testing Container Orchestration Sharding Success is how high you bounce when you hit bottom. Load Testing Testing Message Queue NLP Microservices
 Dream big and dare to fail. Frontend Zero Downtime Deployment Kubernetes Latency Optimization Agile Lambda Functions Success is how high you bounce when you hit bottom. Cloud If you can dream it, you can do it. Optimization Database Indexing Difficult roads often lead to beautiful destinations.
 Data Science Frontend Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Cache Invalidation Predictive Analytics To be the best, you must be able to handle the worst. Edge Computing Message Queue
+Agile Container Orchestration Act as if what you do makes a difference. It does. Performance Load Balancing Content Delivery Network
