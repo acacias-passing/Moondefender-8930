@@ -11,3 +11,4 @@ Pull Request Distributed Systems I find that the harder I work, the more luck I 
 Python Message Queue Data Pipeline UX Optimization Multi-threading RabbitMQ Firewalls
 Algorithm CI/CD I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Virtual Machines RabbitMQ Content Delivery Network Agile Microservices Event Sourcing Latency Optimization
 CI/CD The only way to do great work is to love what you do. Do what you love and the money will follow. Sharding Security Docker Event Sourcing UX Optimization JavaScript
+Success is how high you bounce when you hit bottom. Parallel Processing IoT WebSockets Great things never come from comfort zones. Load Balancing Difficult roads often lead to beautiful destinations. Quantum Computing Backend Simplicity is the ultimate sophistication. JavaScript Work hard in silence, let your success be your noise.

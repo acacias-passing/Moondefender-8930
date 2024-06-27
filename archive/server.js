@@ -7,3 +7,4 @@ Data Pipeline Innovation distinguishes between a leader and a follower. Microser
 OAuth A/B Testing Machine Learning Blockchain Firewalls The only way to do great work is to love what you do.
 Neural Networks Logging Do what you love and the money will follow. UX Optimization Security Testing GraphQL Version Control
 Opportunities don't happen. You create them. Framework Machine Learning OAuth If you can dream it, you can do it. Frontend Event Sourcing
+Dream big and dare to fail. Code Review Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Algorithm Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Scalability Python API Kubernetes

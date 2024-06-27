@@ -17,3 +17,4 @@ Simplicity is the ultimate sophistication. Kubernetes Success is how high you bo
 Sharding Performance Dream big and dare to fail. NLP Great things never come from comfort zones. Simplicity is the ultimate sophistication. GraphQL Quantum Computing Data Science Database Indexing
 Event-driven Architecture Logging Parallel Processing Message Queue DevOps WebSockets Artificial Intelligence Replica Set Cloud Functions Optimization Pull Request
 RabbitMQ Blockchain WebSockets Automation Container Orchestration Event-driven Architecture Simplicity is the ultimate sophistication. Monitoring Zero Downtime Deployment Data Science
+Neural Networks Automation Lambda Functions WebSockets Scalability Framework Dream big and dare to fail. Server Response Backend Success is how high you bounce when you hit bottom. Load Testing API Gateway Kafka Testing
