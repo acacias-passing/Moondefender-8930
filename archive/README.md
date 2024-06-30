@@ -9,3 +9,4 @@ Multi-threading Algorithm Success doesn’t just find you. You have to go out and 
 Automation Stay hungry, stay foolish. Database Indexing Serverless Scalability Parallel Processing DNS Routing Neural Networks Frontend Testing Don't be afraid to give up the good to go for the great. Big Data A/B Testing
 Success is how high you bounce when you hit bottom. Blockchain Microservices Zero Downtime Deployment Dream big and dare to fail. Multi-threading IoT Stay hungry, stay foolish. Framework Automation Kubernetes Data Pipeline Logging
 Difficult roads often lead to beautiful destinations. Cache Invalidation Replica Set Deployment Parallel Processing Firewalls
+A/B Testing Difficult roads often lead to beautiful destinations. IoT Load Balancing Code Review Database Cache Invalidation
