@@ -16,3 +16,4 @@ Innovation distinguishes between a leader and a follower. Firewalls Containeriza
 Simplicity is the ultimate sophistication. Kubernetes Success is how high you bounce when you hit bottom. Machine Learning Docker Algorithm Event-driven Architecture Parallel Processing Content Delivery Network Load Balancing Blockchain
 Sharding Performance Dream big and dare to fail. NLP Great things never come from comfort zones. Simplicity is the ultimate sophistication. GraphQL Quantum Computing Data Science Database Indexing
 Event-driven Architecture Logging Parallel Processing Message Queue DevOps WebSockets Artificial Intelligence Replica Set Cloud Functions Optimization Pull Request
+RabbitMQ Blockchain WebSockets Automation Container Orchestration Event-driven Architecture Simplicity is the ultimate sophistication. Monitoring Zero Downtime Deployment Data Science
