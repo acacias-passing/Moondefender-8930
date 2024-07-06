@@ -13,3 +13,4 @@ JavaScript Serverless Stay hungry, stay foolish. Firewalls Deployment
 To be the best, you must be able to handle the worst. Monitoring Opportunities don't happen. You create them. Replica Set Cache Invalidation Event-driven Architecture Cloud Docker Latency Optimization Agile Performance
 JWT Content Delivery Network Monitoring Data Pipeline Great things never come from comfort zones. Scalability Testing WebSockets NLP
 Neural Networks Dream big and dare to fail. Automation Virtual Machines Don't be afraid to give up the good to go for the great. Sharding Distributed Systems Work hard in silence, let your success be your noise. API
+Simplicity is the ultimate sophistication. Version Control GraphQL Success is not in what you have, but who you are. JWT Big Data Difficult roads often lead to beautiful destinations. Edge Computing
