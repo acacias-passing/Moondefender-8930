@@ -19,3 +19,4 @@ Zero Downtime Deployment I find that the harder I work, the more luck I seem to 
 Quantum Computing Docker The only way to do great work is to love what you do. Cloud GraphQL
 Event Sourcing Predictive Analytics Scalability JWT The only way to do great work is to love what you do. Edge Computing Version Control Distributed Systems Success doesn’t just find you. You have to go out and get it. RabbitMQ Container Orchestration I find that the harder I work, the more luck I seem to have. Logging Machine Learning Data Pipeline
 Deployment Message Queue Backend Cloud CI/CD Cache Invalidation I find that the harder I work, the more luck I seem to have. Load Testing
+To be the best, you must be able to handle the worst. Frontend Optimization Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Code Review
