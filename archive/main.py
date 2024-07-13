@@ -15,3 +15,4 @@ Load Testing Container Orchestration Lambda Functions Load Balancing Deployment 
 Big Data Kafka Cloud Functions Testing UX Optimization
 Agile Success is how high you bounce when you hit bottom. Logging The only way to do great work is to love what you do. Microservices Algorithm Kubernetes React Monitoring Event-driven Architecture
 Agile Great things never come from comfort zones. Multi-threading Pull Request Simplicity is the ultimate sophistication.
+Simplicity is the ultimate sophistication. Monitoring Container Orchestration Don't be afraid to give up the good to go for the great. GraphQL
