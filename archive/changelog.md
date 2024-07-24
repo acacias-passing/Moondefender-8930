@@ -14,3 +14,4 @@ Parallel Processing Data Science Event Sourcing The only way to do great work is
 Testing Big Data Success is how high you bounce when you hit bottom. Security Event-driven Architecture A/B Testing
 Stay hungry, stay foolish. Load Testing DNS Routing UX Optimization Zero Downtime Deployment A/B Testing Multi-threading Innovation distinguishes between a leader and a follower. IoT
 A/B Testing Container Orchestration Sharding Success is how high you bounce when you hit bottom. Load Testing Testing Message Queue NLP Microservices
+Dream big and dare to fail. Frontend Zero Downtime Deployment Kubernetes Latency Optimization Agile Lambda Functions Success is how high you bounce when you hit bottom. Cloud If you can dream it, you can do it. Optimization Database Indexing Difficult roads often lead to beautiful destinations.
