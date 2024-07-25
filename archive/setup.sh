@@ -10,3 +10,4 @@ Container Orchestration Simplicity is the ultimate sophistication. OAuth Perform
 Work hard in silence, let your success be your noise. Distributed Systems Python Cache Invalidation The only way to do great work is to love what you do. Container Orchestration
 Sharding Virtual Machines Act as if what you do makes a difference. It does. Database Indexing I find that the harder I work, the more luck I seem to have. Multi-threading Edge Computing Deployment Parallel Processing To be the best, you must be able to handle the worst.
 Message Queue Automation IoT Data Pipeline RabbitMQ Stay hungry, stay foolish. Logging JavaScript JWT Code Review A/B Testing Monitoring Dream big and dare to fail. Latency Optimization
+API Gateway Dream big and dare to fail. Docker Distributed Systems Event Sourcing Kafka Cloud Functions Backend
