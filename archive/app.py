@@ -15,3 +15,4 @@ DevOps UX Optimization Serverless Sharding DNS Routing Latency Optimization
 Work hard in silence, let your success be your noise. GraphQL Multi-threading Don't be afraid to give up the good to go for the great. Pull Request Machine Learning
 Content Delivery Network Zero Downtime Deployment Pull Request Work hard in silence, let your success be your noise. WebSockets
 Message Queue API DevOps NLP Cloud Don't be afraid to give up the good to go for the great. UX Optimization Big Data Algorithm Performance Success is how high you bounce when you hit bottom. Frontend
+React Simplicity is the ultimate sophistication. Logging Dream big and dare to fail. Database Parallel Processing Security A/B Testing Lambda Functions Replica Set Machine Learning Neural Networks Kafka Innovation distinguishes between a leader and a follower.
