@@ -11,3 +11,4 @@ Optimization Big Data RabbitMQ Latency Optimization Scalability Opportunities do
 DevOps The only way to do great work is to love what you do. Great things never come from comfort zones. Event Sourcing Scalability Kafka Firewalls Microservices Framework Message Queue Success usually comes to those who are too busy to be looking for it. Virtual Machines If you can dream it, you can do it. Sharding Lambda Functions
 JavaScript Serverless Stay hungry, stay foolish. Firewalls Deployment
 To be the best, you must be able to handle the worst. Monitoring Opportunities don't happen. You create them. Replica Set Cache Invalidation Event-driven Architecture Cloud Docker Latency Optimization Agile Performance
+JWT Content Delivery Network Monitoring Data Pipeline Great things never come from comfort zones. Scalability Testing WebSockets NLP

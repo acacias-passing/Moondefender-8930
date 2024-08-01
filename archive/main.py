@@ -14,3 +14,4 @@ Load Balancing Event-driven Architecture Database Indexing Container Orchestrati
 Load Testing Container Orchestration Lambda Functions Load Balancing Deployment Server Response I find that the harder I work, the more luck I seem to have. Algorithm Performance Neural Networks Parallel Processing Predictive Analytics JWT Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations.
 Big Data Kafka Cloud Functions Testing UX Optimization
 Agile Success is how high you bounce when you hit bottom. Logging The only way to do great work is to love what you do. Microservices Algorithm Kubernetes React Monitoring Event-driven Architecture
+Agile Great things never come from comfort zones. Multi-threading Pull Request Simplicity is the ultimate sophistication.

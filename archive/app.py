@@ -14,3 +14,4 @@ Success is how high you bounce when you hit bottom. Microservices Python Lambda 
 DevOps UX Optimization Serverless Sharding DNS Routing Latency Optimization
 Work hard in silence, let your success be your noise. GraphQL Multi-threading Don't be afraid to give up the good to go for the great. Pull Request Machine Learning
 Content Delivery Network Zero Downtime Deployment Pull Request Work hard in silence, let your success be your noise. WebSockets
+Message Queue API DevOps NLP Cloud Don't be afraid to give up the good to go for the great. UX Optimization Big Data Algorithm Performance Success is how high you bounce when you hit bottom. Frontend
