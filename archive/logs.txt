@@ -8,3 +8,4 @@ If you can dream it, you can do it. JavaScript Cloud Artificial Intelligence Vir
 Backend Event Sourcing Neural Networks Multi-threading Server Response Firewalls To be the best, you must be able to handle the worst. Cache Invalidation Cloud RabbitMQ
 To be the best, you must be able to handle the worst. Edge Computing Neural Networks Load Testing JWT Simplicity is the ultimate sophistication.
 Pull Request Distributed Systems I find that the harder I work, the more luck I seem to have. Kubernetes Database Indexing Server Response DNS Routing If you can dream it, you can do it. Quantum Computing
+Python Message Queue Data Pipeline UX Optimization Multi-threading RabbitMQ Firewalls
