@@ -13,3 +13,4 @@ Replica Set Cache Invalidation Framework Cloud Containerization Automation Do wh
 Success is how high you bounce when you hit bottom. Microservices Python Lambda Functions UX Optimization
 DevOps UX Optimization Serverless Sharding DNS Routing Latency Optimization
 Work hard in silence, let your success be your noise. GraphQL Multi-threading Don't be afraid to give up the good to go for the great. Pull Request Machine Learning
+Content Delivery Network Zero Downtime Deployment Pull Request Work hard in silence, let your success be your noise. WebSockets
