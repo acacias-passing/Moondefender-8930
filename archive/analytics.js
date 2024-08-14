@@ -14,3 +14,4 @@ Simplicity is the ultimate sophistication. Blockchain Success is not in what you
 Load Testing NLP Simplicity is the ultimate sophistication. DevOps Success is not in what you have, but who you are. Frontend
 Innovation distinguishes between a leader and a follower. Firewalls Containerization Success doesn’t just find you. You have to go out and get it. Quantum Computing OAuth Sharding Database API Dream big and dare to fail. Great things never come from comfort zones. Zero Downtime Deployment
 Simplicity is the ultimate sophistication. Kubernetes Success is how high you bounce when you hit bottom. Machine Learning Docker Algorithm Event-driven Architecture Parallel Processing Content Delivery Network Load Balancing Blockchain
+Sharding Performance Dream big and dare to fail. NLP Great things never come from comfort zones. Simplicity is the ultimate sophistication. GraphQL Quantum Computing Data Science Database Indexing
