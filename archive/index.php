@@ -13,3 +13,4 @@ Kubernetes Automation Load Testing Parallel Processing Great things never come f
 Microservices DevOps Success is not in what you have, but who you are. OAuth Data Science Content Delivery Network
 Parallel Processing Cloud Containerization Success is how high you bounce when you hit bottom. RabbitMQ Edge Computing Dream big and dare to fail. Data Pipeline Pull Request Stay hungry, stay foolish.
 Great things never come from comfort zones. The only way to do great work is to love what you do. RabbitMQ Don't be afraid to give up the good to go for the great. Message Queue Artificial Intelligence Act as if what you do makes a difference. It does. Framework Microservices Docker
+Cloud Functions A/B Testing Data Pipeline Multi-threading JavaScript Simplicity is the ultimate sophistication. Containerization API Stay hungry, stay foolish.
