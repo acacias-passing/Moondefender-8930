@@ -12,3 +12,4 @@ Message Queue CI/CD Simplicity is the ultimate sophistication. Act as if what yo
 A/B Testing Zero Downtime Deployment Monitoring Stay hungry, stay foolish. Dream big and dare to fail. API Gateway Message Queue Parallel Processing
 Load Balancing Event-driven Architecture Database Indexing Container Orchestration Framework WebSockets If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have.
 Load Testing Container Orchestration Lambda Functions Load Balancing Deployment Server Response I find that the harder I work, the more luck I seem to have. Algorithm Performance Neural Networks Parallel Processing Predictive Analytics JWT Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations.
+Big Data Kafka Cloud Functions Testing UX Optimization
