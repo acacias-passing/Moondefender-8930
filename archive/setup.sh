@@ -7,3 +7,4 @@ Firewalls Artificial Intelligence Neural Networks Difficult roads often lead to 
 Virtual Machines Logging Framework Cloud Functions Difficult roads often lead to beautiful destinations. Message Queue Kafka Deployment
 React Event-driven Architecture Machine Learning OAuth Container Orchestration Kafka Work hard in silence, let your success be your noise. JavaScript API Latency Optimization Distributed Systems API Gateway
 Container Orchestration Simplicity is the ultimate sophistication. OAuth Performance Pull Request API Success is how high you bounce when you hit bottom. Security Microservices Cloud Functions Success doesn’t just find you. You have to go out and get it. Machine Learning Version Control API Gateway
+Work hard in silence, let your success be your noise. Distributed Systems Python Cache Invalidation The only way to do great work is to love what you do. Container Orchestration
