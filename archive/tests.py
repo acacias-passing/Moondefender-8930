@@ -14,3 +14,4 @@ Stay hungry, stay foolish. Neural Networks Big Data The only way to do great wor
 Multi-threading Data Pipeline Frontend Predictive Analytics DNS Routing Artificial Intelligence Cloud Functions Code Review Logging
 Success is not in what you have, but who you are. Containerization Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Microservices Simplicity is the ultimate sophistication. Deployment Pull Request
 Frontend The only way to do great work is to love what you do. Machine Learning Database Indexing Serverless CI/CD Simplicity is the ultimate sophistication. Backend Database Content Delivery Network Testing Pull Request Latency Optimization Logging
+Firewalls Artificial Intelligence I find that the harder I work, the more luck I seem to have. Latency Optimization Data Pipeline JWT Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it.
