@@ -13,3 +13,4 @@ Edge Computing Predictive Analytics WebSockets Logging Data Pipeline
 Stay hungry, stay foolish. Neural Networks Big Data The only way to do great work is to love what you do. Content Delivery Network A/B Testing Success is how high you bounce when you hit bottom. Optimization JWT Cloud Cache Invalidation JavaScript Security
 Multi-threading Data Pipeline Frontend Predictive Analytics DNS Routing Artificial Intelligence Cloud Functions Code Review Logging
 Success is not in what you have, but who you are. Containerization Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Microservices Simplicity is the ultimate sophistication. Deployment Pull Request
+Frontend The only way to do great work is to love what you do. Machine Learning Database Indexing Serverless CI/CD Simplicity is the ultimate sophistication. Backend Database Content Delivery Network Testing Pull Request Latency Optimization Logging
