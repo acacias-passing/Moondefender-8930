@@ -6,3 +6,4 @@ Do what you love and the money will follow. Cache Invalidation Pull Request Data
 Firewalls Artificial Intelligence Neural Networks Difficult roads often lead to beautiful destinations. Message Queue
 Virtual Machines Logging Framework Cloud Functions Difficult roads often lead to beautiful destinations. Message Queue Kafka Deployment
 React Event-driven Architecture Machine Learning OAuth Container Orchestration Kafka Work hard in silence, let your success be your noise. JavaScript API Latency Optimization Distributed Systems API Gateway
+Container Orchestration Simplicity is the ultimate sophistication. OAuth Performance Pull Request API Success is how high you bounce when you hit bottom. Security Microservices Cloud Functions Success doesn’t just find you. You have to go out and get it. Machine Learning Version Control API Gateway

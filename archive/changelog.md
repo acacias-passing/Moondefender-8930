@@ -11,3 +11,4 @@ Multi-threading Innovation distinguishes between a leader and a follower. Succes
 Neural Networks Great things never come from comfort zones. Cloud Multi-threading Monitoring Data Pipeline Artificial Intelligence
 Docker Success usually comes to those who are too busy to be looking for it. OAuth Microservices Kafka Optimization Framework Multi-threading
 Parallel Processing Data Science Event Sourcing The only way to do great work is to love what you do. Load Balancing Happiness is not something ready made. It comes from your own actions. Containerization UX Optimization Success is how high you bounce when you hit bottom. Serverless React Cache Invalidation Latency Optimization Innovation distinguishes between a leader and a follower.
+Testing Big Data Success is how high you bounce when you hit bottom. Security Event-driven Architecture A/B Testing
