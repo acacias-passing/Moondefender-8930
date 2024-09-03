@@ -5,3 +5,4 @@ Docker Database Indexing The only way to do great work is to love what you do. E
 Do what you love and the money will follow. Cache Invalidation Pull Request Database Indexing Microservices Kafka
 Firewalls Artificial Intelligence Neural Networks Difficult roads often lead to beautiful destinations. Message Queue
 Virtual Machines Logging Framework Cloud Functions Difficult roads often lead to beautiful destinations. Message Queue Kafka Deployment
+React Event-driven Architecture Machine Learning OAuth Container Orchestration Kafka Work hard in silence, let your success be your noise. JavaScript API Latency Optimization Distributed Systems API Gateway

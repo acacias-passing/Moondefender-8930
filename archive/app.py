@@ -12,3 +12,4 @@ JWT Automation Load Balancing Machine Learning Agile RabbitMQ
 Replica Set Cache Invalidation Framework Cloud Containerization Automation Do what you love and the money will follow. Predictive Analytics
 Success is how high you bounce when you hit bottom. Microservices Python Lambda Functions UX Optimization
 DevOps UX Optimization Serverless Sharding DNS Routing Latency Optimization
+Work hard in silence, let your success be your noise. GraphQL Multi-threading Don't be afraid to give up the good to go for the great. Pull Request Machine Learning
