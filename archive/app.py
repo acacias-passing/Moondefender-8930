@@ -11,3 +11,4 @@ GraphQL Quantum Computing Agile Data Pipeline Artificial Intelligence Parallel P
 JWT Automation Load Balancing Machine Learning Agile RabbitMQ
 Replica Set Cache Invalidation Framework Cloud Containerization Automation Do what you love and the money will follow. Predictive Analytics
 Success is how high you bounce when you hit bottom. Microservices Python Lambda Functions UX Optimization
+DevOps UX Optimization Serverless Sharding DNS Routing Latency Optimization

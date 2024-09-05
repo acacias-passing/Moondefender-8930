@@ -11,3 +11,4 @@ Docker Kubernetes Security Scalability NLP Virtual Machines Dream big and dare t
 A/B Testing Neural Networks DevOps JWT Security Success doesn’t just find you. You have to go out and get it. Deployment
 Opportunities don't happen. You create them. Zero Downtime Deployment Event-driven Architecture Automation CI/CD Success usually comes to those who are too busy to be looking for it. Virtual Machines
 Simplicity is the ultimate sophistication. Blockchain Success is not in what you have, but who you are. OAuth JavaScript Event-driven Architecture Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Kubernetes Containerization Dream big and dare to fail.
+Load Testing NLP Simplicity is the ultimate sophistication. DevOps Success is not in what you have, but who you are. Frontend
