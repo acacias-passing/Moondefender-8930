@@ -14,3 +14,4 @@ Do what you love and the money will follow. Agile Cloud Difficult roads often le
 Success doesn’t just find you. You have to go out and get it. JavaScript Opportunities don't happen. You create them. Success is not in what you have, but who you are. Frontend Microservices Zero Downtime Deployment Python Predictive Analytics
 Success usually comes to those who are too busy to be looking for it. Data Science Database Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have.
 Dream big and dare to fail. Innovation distinguishes between a leader and a follower. DNS Routing Success is not in what you have, but who you are. Distributed Systems
+JWT Serverless DNS Routing Big Data Python Artificial Intelligence Database Edge Computing JavaScript Message Queue Act as if what you do makes a difference. It does.
