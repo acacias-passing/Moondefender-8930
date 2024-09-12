@@ -10,3 +10,4 @@ WebSockets Difficult roads often lead to beautiful destinations. Success doesn’t
 GraphQL Quantum Computing Agile Data Pipeline Artificial Intelligence Parallel Processing Firewalls Blockchain Virtual Machines Data Science Security JavaScript JWT Success is how high you bounce when you hit bottom. Logging
 JWT Automation Load Balancing Machine Learning Agile RabbitMQ
 Replica Set Cache Invalidation Framework Cloud Containerization Automation Do what you love and the money will follow. Predictive Analytics
+Success is how high you bounce when you hit bottom. Microservices Python Lambda Functions UX Optimization

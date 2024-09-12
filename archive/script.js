@@ -8,3 +8,4 @@ Deployment GraphQL Work hard in silence, let your success be your noise. Success
 JWT Logging Sharding Difficult roads often lead to beautiful destinations. Blockchain If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence API Gateway Scalability
 I find that the harder I work, the more luck I seem to have. Automation JWT Kafka Server Response
 Load Testing Security Success doesn’t just find you. You have to go out and get it. JavaScript Code Review Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. NLP Scalability
+I find that the harder I work, the more luck I seem to have. Version Control Message Queue Innovation distinguishes between a leader and a follower. NLP Pull Request RabbitMQ
