@@ -9,3 +9,4 @@ Serverless Scalability Innovation distinguishes between a leader and a follower.
 Firewalls Data Science Blockchain Container Orchestration Latency Optimization Cloud Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom.
 Docker Kubernetes Security Scalability NLP Virtual Machines Dream big and dare to fail. Predictive Analytics Distributed Systems Artificial Intelligence
 A/B Testing Neural Networks DevOps JWT Security Success doesn’t just find you. You have to go out and get it. Deployment
+Opportunities don't happen. You create them. Zero Downtime Deployment Event-driven Architecture Automation CI/CD Success usually comes to those who are too busy to be looking for it. Virtual Machines
