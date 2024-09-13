@@ -10,3 +10,4 @@ DNS Routing A/B Testing NLP UX Optimization Content Delivery Network
 Blockchain If you can dream it, you can do it. Security Dream big and dare to fail. Automation Database Indexing Kubernetes Cloud Functions Firewalls API Optimization DNS Routing Code Review Content Delivery Network
 Parallel Processing Container Orchestration Firewalls DevOps Content Delivery Network UX Optimization Algorithm API Kafka Great things never come from comfort zones.
 Kubernetes Automation Load Testing Parallel Processing Great things never come from comfort zones. Docker Stay hungry, stay foolish. Cloud Data Pipeline Serverless Happiness is not something ready made. It comes from your own actions. Code Review Testing
+Microservices DevOps Success is not in what you have, but who you are. OAuth Data Science Content Delivery Network
