@@ -7,3 +7,4 @@ React JavaScript Firewalls To be the best, you must be able to handle the worst.
 Deployment GraphQL Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Optimization React Big Data CI/CD Backend
 JWT Logging Sharding Difficult roads often lead to beautiful destinations. Blockchain If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence API Gateway Scalability
 I find that the harder I work, the more luck I seem to have. Automation JWT Kafka Server Response
+Load Testing Security Success doesn’t just find you. You have to go out and get it. JavaScript Code Review Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. NLP Scalability
