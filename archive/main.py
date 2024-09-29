@@ -9,3 +9,4 @@ Do what you love and the money will follow. Success doesn’t just find you. You h
 Logging Database Cloud Functions Event-driven Architecture Framework IoT Edge Computing Data Pipeline Testing GraphQL Serverless
 DevOps Distributed Systems React Content Delivery Network Kubernetes Work hard in silence, let your success be your noise. Kafka Logging JavaScript Server Response Database Indexing GraphQL Event Sourcing
 Message Queue CI/CD Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Predictive Analytics Distributed Systems Agile Security I find that the harder I work, the more luck I seem to have. DevOps Backend Event Sourcing
+A/B Testing Zero Downtime Deployment Monitoring Stay hungry, stay foolish. Dream big and dare to fail. API Gateway Message Queue Parallel Processing
