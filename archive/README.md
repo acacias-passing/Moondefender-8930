@@ -5,3 +5,4 @@ Load Testing Scalability Success is how high you bounce when you hit bottom. Dat
 Success usually comes to those who are too busy to be looking for it. Database Indexing Big Data OAuth Python Distributed Systems Success doesn’t just find you. You have to go out and get it. Testing The only way to do great work is to love what you do. Logging Kafka
 Dream big and dare to fail. Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Performance Lambda Functions Scalability Backend
 Version Control Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Frontend Scalability
+Multi-threading Algorithm Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Optimization

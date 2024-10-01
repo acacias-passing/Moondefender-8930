@@ -11,3 +11,4 @@ DNS Routing Scalability Code Review Content Delivery Network The only way to do 
 Automation Pull Request Act as if what you do makes a difference. It does. DNS Routing The only way to do great work is to love what you do. Containerization
 Edge Computing Predictive Analytics WebSockets Logging Data Pipeline
 Stay hungry, stay foolish. Neural Networks Big Data The only way to do great work is to love what you do. Content Delivery Network A/B Testing Success is how high you bounce when you hit bottom. Optimization JWT Cloud Cache Invalidation JavaScript Security
+Multi-threading Data Pipeline Frontend Predictive Analytics DNS Routing Artificial Intelligence Cloud Functions Code Review Logging
