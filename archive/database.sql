@@ -8,3 +8,4 @@ Deployment API Gateway Success usually comes to those who are too busy to be loo
 Testing Database Indexing Zero Downtime Deployment Data Pipeline GraphQL Monitoring IoT Scalability API
 Distributed Systems Kafka Virtual Machines Parallel Processing Dream big and dare to fail. Data Science Algorithm
 React If you can dream it, you can do it. Pull Request DevOps Python I find that the harder I work, the more luck I seem to have. Message Queue
+Machine Learning Testing API Gateway Performance Logging Opportunities don't happen. You create them. Database Code Review Simplicity is the ultimate sophistication. Lambda Functions UX Optimization API Automation Difficult roads often lead to beautiful destinations. Cloud Functions
