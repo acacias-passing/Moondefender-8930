@@ -8,3 +8,4 @@ Database Indexing Act as if what you do makes a difference. It does. Latency Opt
 Serverless Scalability Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. OAuth Simplicity is the ultimate sophistication. DevOps API Gateway Database Act as if what you do makes a difference. It does.
 Firewalls Data Science Blockchain Container Orchestration Latency Optimization Cloud Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom.
 Docker Kubernetes Security Scalability NLP Virtual Machines Dream big and dare to fail. Predictive Analytics Distributed Systems Artificial Intelligence
+A/B Testing Neural Networks DevOps JWT Security Success doesn’t just find you. You have to go out and get it. Deployment
