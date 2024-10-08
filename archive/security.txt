@@ -6,3 +6,4 @@ Quantum Computing Cloud DNS Routing Parallel Processing API Framework Event-driv
 Performance Neural Networks Sharding OAuth UX Optimization Innovation distinguishes between a leader and a follower. Database Indexing Server Response Dream big and dare to fail.
 Do what you love and the money will follow. Data Pipeline Monitoring Big Data Security RabbitMQ Cloud Scalability Optimization Zero Downtime Deployment Python Containerization Event-driven Architecture Container Orchestration
 Zero Downtime Deployment Success is how high you bounce when you hit bottom. JWT Stay hungry, stay foolish. DevOps Framework Automation Monitoring
+Edge Computing Containerization Automation Big Data Server Response If you can dream it, you can do it. API Virtual Machines Serverless Dream big and dare to fail. Agile
