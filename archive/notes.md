@@ -7,3 +7,4 @@ Cloud Functions Predictive Analytics Distributed Systems Optimization A/B Testin
 To be the best, you must be able to handle the worst. DNS Routing Success is how high you bounce when you hit bottom. Algorithm Serverless Virtual Machines Content Delivery Network
 Optimization Don't be afraid to give up the good to go for the great. Zero Downtime Deployment NLP Scalability Multi-threading Predictive Analytics I find that the harder I work, the more luck I seem to have. Algorithm Automation Data Pipeline Replica Set Agile A/B Testing
 Serverless Agile GraphQL Artificial Intelligence Do what you love and the money will follow. API If you can dream it, you can do it. Blockchain Scalability UX Optimization Code Review Big Data Don't be afraid to give up the good to go for the great.
+NLP Container Orchestration GraphQL Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it.
