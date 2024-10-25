@@ -9,3 +9,4 @@ Simplicity is the ultimate sophistication. Container Orchestration Data Pipeline
 WebSockets Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. RabbitMQ Agile Version Control Edge Computing Latency Optimization Scalability Code Review
 GraphQL Quantum Computing Agile Data Pipeline Artificial Intelligence Parallel Processing Firewalls Blockchain Virtual Machines Data Science Security JavaScript JWT Success is how high you bounce when you hit bottom. Logging
 JWT Automation Load Balancing Machine Learning Agile RabbitMQ
+Replica Set Cache Invalidation Framework Cloud Containerization Automation Do what you love and the money will follow. Predictive Analytics
