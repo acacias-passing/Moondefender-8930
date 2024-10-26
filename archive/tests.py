@@ -10,3 +10,4 @@ Success is how high you bounce when you hit bottom. Opportunities don't happen. 
 DNS Routing Scalability Code Review Content Delivery Network The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Edge Computing Logging Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. JWT Innovation distinguishes between a leader and a follower.
 Automation Pull Request Act as if what you do makes a difference. It does. DNS Routing The only way to do great work is to love what you do. Containerization
 Edge Computing Predictive Analytics WebSockets Logging Data Pipeline
+Stay hungry, stay foolish. Neural Networks Big Data The only way to do great work is to love what you do. Content Delivery Network A/B Testing Success is how high you bounce when you hit bottom. Optimization JWT Cloud Cache Invalidation JavaScript Security
