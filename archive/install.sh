@@ -8,3 +8,4 @@ Agile Backend Frontend Stay hungry, stay foolish. IoT Monitoring Algorithm Firew
 Difficult roads often lead to beautiful destinations. Pull Request Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. If you can dream it, you can do it. Performance
 Database A/B Testing Content Delivery Network Opportunities don't happen. You create them. Algorithm Virtual Machines Pull Request The only way to do great work is to love what you do. Data Science
 Load Testing Replica Set Success doesn’t just find you. You have to go out and get it. DevOps Zero Downtime Deployment Work hard in silence, let your success be your noise. Microservices Logging Firewalls Event Sourcing Monitoring Quantum Computing Security Python Success is how high you bounce when you hit bottom.
+DNS Routing Frontend Python Server Response Automation Algorithm
