@@ -7,3 +7,4 @@ IoT Parallel Processing Database Indexing Firewalls If you can dream it, you can
 I find that the harder I work, the more luck I seem to have. Code Review Opportunities don't happen. You create them. Multi-threading Predictive Analytics Security Kafka Lambda Functions Event Sourcing React
 Simplicity is the ultimate sophistication. Container Orchestration Data Pipeline Code Review API
 WebSockets Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. RabbitMQ Agile Version Control Edge Computing Latency Optimization Scalability Code Review
+GraphQL Quantum Computing Agile Data Pipeline Artificial Intelligence Parallel Processing Firewalls Blockchain Virtual Machines Data Science Security JavaScript JWT Success is how high you bounce when you hit bottom. Logging
