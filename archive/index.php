@@ -6,3 +6,4 @@ Innovation distinguishes between a leader and a follower. Agile Firewalls Framew
 RabbitMQ Act as if what you do makes a difference. It does. Predictive Analytics Agile Container Orchestration
 API Machine Learning Replica Set Predictive Analytics CI/CD Server Response Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Logging Scalability Multi-threading Blockchain Work hard in silence, let your success be your noise.
 Message Queue Firewalls JWT Edge Computing Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Kafka JavaScript Event-driven Architecture Difficult roads often lead to beautiful destinations.
+DNS Routing A/B Testing NLP UX Optimization Content Delivery Network
