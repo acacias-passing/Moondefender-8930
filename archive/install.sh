@@ -5,3 +5,4 @@ Version Control Docker OAuth Framework NLP If you can dream it, you can do it. S
 Algorithm Stay hungry, stay foolish. Microservices Multi-threading Version Control Lambda Functions Optimization Container Orchestration Security Pull Request Database CI/CD
 Database Indexing Firewalls Container Orchestration Distributed Systems Predictive Analytics Cache Invalidation Machine Learning Agile Virtual Machines Event-driven Architecture Code Review JWT
 Agile Backend Frontend Stay hungry, stay foolish. IoT Monitoring Algorithm Firewalls Automation Happiness is not something ready made. It comes from your own actions. Data Pipeline Simplicity is the ultimate sophistication.
+Difficult roads often lead to beautiful destinations. Pull Request Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. If you can dream it, you can do it. Performance
