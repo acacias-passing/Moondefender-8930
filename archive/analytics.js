@@ -4,3 +4,4 @@ Code Review Database Monitoring React To be the best, you must be able to handle
 API Gateway Edge Computing Version Control Innovation distinguishes between a leader and a follower. Database Indexing Cache Invalidation Algorithm
 Blockchain Act as if what you do makes a difference. It does. Event Sourcing Success is not in what you have, but who you are. Frontend Logging Great things never come from comfort zones. Do what you love and the money will follow. Cloud If you can dream it, you can do it. GraphQL Server Response
 Testing Machine Learning Latency Optimization Kubernetes Microservices Success doesn’t just find you. You have to go out and get it. Event-driven Architecture
+Database Indexing Act as if what you do makes a difference. It does. Latency Optimization Content Delivery Network API Gateway Edge Computing Logging DevOps Artificial Intelligence Work hard in silence, let your success be your noise. Cloud Functions Monitoring React Replica Set

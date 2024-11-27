@@ -2,3 +2,4 @@ Monitoring Innovation distinguishes between a leader and a follower. Server Resp
 Distributed Systems JWT Event-driven Architecture Stay hungry, stay foolish. Microservices To be the best, you must be able to handle the worst.
 Scalability Security Blockchain Stay hungry, stay foolish. Data Science Event Sourcing Kafka Message Queue Cloud Work hard in silence, let your success be your noise.
 Event-driven Architecture Frontend Innovation distinguishes between a leader and a follower. JavaScript Load Balancing UX Optimization Data Science Deployment Stay hungry, stay foolish. Predictive Analytics Container Orchestration Success usually comes to those who are too busy to be looking for it.
+Predictive Analytics Load Testing Code Review Happiness is not something ready made. It comes from your own actions. JavaScript IoT Success usually comes to those who are too busy to be looking for it. Content Delivery Network
