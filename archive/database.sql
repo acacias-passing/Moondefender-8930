@@ -7,3 +7,4 @@ Artificial Intelligence Virtual Machines CI/CD Database Scalability GraphQL Cont
 Deployment API Gateway Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. API Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Data Science GraphQL Testing
 Testing Database Indexing Zero Downtime Deployment Data Pipeline GraphQL Monitoring IoT Scalability API
 Distributed Systems Kafka Virtual Machines Parallel Processing Dream big and dare to fail. Data Science Algorithm
+React If you can dream it, you can do it. Pull Request DevOps Python I find that the harder I work, the more luck I seem to have. Message Queue

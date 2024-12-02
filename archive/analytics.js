@@ -3,3 +3,4 @@ Pull Request Lambda Functions Distributed Systems Big Data Deployment Code Revie
 Code Review Database Monitoring React To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Replica Set Pull Request A/B Testing Kubernetes Serverless Edge Computing
 API Gateway Edge Computing Version Control Innovation distinguishes between a leader and a follower. Database Indexing Cache Invalidation Algorithm
 Blockchain Act as if what you do makes a difference. It does. Event Sourcing Success is not in what you have, but who you are. Frontend Logging Great things never come from comfort zones. Do what you love and the money will follow. Cloud If you can dream it, you can do it. GraphQL Server Response
+Testing Machine Learning Latency Optimization Kubernetes Microservices Success doesn’t just find you. You have to go out and get it. Event-driven Architecture
