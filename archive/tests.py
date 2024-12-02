@@ -6,3 +6,4 @@ Blockchain Parallel Processing Difficult roads often lead to beautiful destinati
 DevOps Innovation distinguishes between a leader and a follower. Artificial Intelligence IoT API WebSockets CI/CD Great things never come from comfort zones. Load Balancing Distributed Systems NLP
 Algorithm Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Kubernetes If you can dream it, you can do it. NLP React Distributed Systems Containerization
 Do what you love and the money will follow. Automation Database Docker IoT Success doesn’t just find you. You have to go out and get it. API Server Response Great things never come from comfort zones.
+Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Message Queue Don't be afraid to give up the good to go for the great. IoT Replica Set Content Delivery Network Data Science Microservices Kubernetes Scalability Data Pipeline
