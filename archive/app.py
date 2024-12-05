@@ -5,3 +5,4 @@ Kafka Cloud Functions To be the best, you must be able to handle the worst. Neur
 Container Orchestration Monitoring Pull Request JWT If you can dream it, you can do it. Act as if what you do makes a difference. It does.
 IoT Parallel Processing Database Indexing Firewalls If you can dream it, you can do it. Kafka API Gateway Success usually comes to those who are too busy to be looking for it. DNS Routing API DevOps Success is not in what you have, but who you are. Agile Cache Invalidation
 I find that the harder I work, the more luck I seem to have. Code Review Opportunities don't happen. You create them. Multi-threading Predictive Analytics Security Kafka Lambda Functions Event Sourcing React
+Simplicity is the ultimate sophistication. Container Orchestration Data Pipeline Code Review API
