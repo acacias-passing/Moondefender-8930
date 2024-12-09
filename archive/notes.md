@@ -2,3 +2,4 @@ Cache Invalidation Predictive Analytics GraphQL Message Queue Logging Big Data R
 The only way to do great work is to love what you do. Content Delivery Network CI/CD Big Data GraphQL NLP Machine Learning Python Cloud Kubernetes Microservices Kafka Multi-threading
 IoT Virtual Machines Machine Learning Multi-threading Pull Request Simplicity is the ultimate sophistication. Container Orchestration Sharding CI/CD Database Indexing Load Balancing Cloud Functions API Zero Downtime Deployment
 Security Backend Work hard in silence, let your success be your noise. JWT Data Science Artificial Intelligence Firewalls Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower.
+Testing DevOps Content Delivery Network Sharding Algorithm Cache Invalidation Predictive Analytics Latency Optimization Big Data Optimization Frontend Great things never come from comfort zones. A/B Testing
