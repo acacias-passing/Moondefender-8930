@@ -3,3 +3,4 @@ Happiness is not something ready made. It comes from your own actions. Work hard
 Scalability To be the best, you must be able to handle the worst. Blockchain Version Control Predictive Analytics Backend
 Great things never come from comfort zones. Load Balancing Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Database Indexing Kafka Automation Agile Containerization JavaScript Serverless Deployment
 Kubernetes Pull Request API Automation Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Containerization Microservices Testing Predictive Analytics Virtual Machines Deployment
+React JavaScript Firewalls To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Cloud IoT Success is how high you bounce when you hit bottom. GraphQL Code Review Virtual Machines
