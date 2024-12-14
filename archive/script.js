@@ -2,3 +2,4 @@ OAuth The only way to do great work is to love what you do. Quantum Computing Sh
 Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Distributed Systems Big Data RabbitMQ Innovation distinguishes between a leader and a follower. Kafka Load Balancing Optimization Success is how high you bounce when you hit bottom.
 Scalability To be the best, you must be able to handle the worst. Blockchain Version Control Predictive Analytics Backend
 Great things never come from comfort zones. Load Balancing Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Database Indexing Kafka Automation Agile Containerization JavaScript Serverless Deployment
+Kubernetes Pull Request API Automation Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Containerization Microservices Testing Predictive Analytics Virtual Machines Deployment

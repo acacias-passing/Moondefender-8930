@@ -4,3 +4,4 @@ Sharding Event Sourcing Data Pipeline UX Optimization Success usually comes to t
 Event-driven Architecture Testing GraphQL Dream big and dare to fail. Scalability A/B Testing Cloud Version Control
 Microservices Automation Performance Predictive Analytics Replica Set Quantum Computing Containerization Load Balancing To be the best, you must be able to handle the worst. Artificial Intelligence Security OAuth
 Logging Dream big and dare to fail. JWT NLP Distributed Systems CI/CD
+DevOps Multi-threading Lambda Functions Container Orchestration Testing The only way to do great work is to love what you do. Content Delivery Network NLP Virtual Machines Firewalls Great things never come from comfort zones. To be the best, you must be able to handle the worst. Backend Optimization
