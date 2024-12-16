@@ -3,3 +3,4 @@ Deployment UX Optimization DNS Routing Zero Downtime Deployment Automation Code 
 Sharding Event Sourcing Data Pipeline UX Optimization Success usually comes to those who are too busy to be looking for it. Content Delivery Network Container Orchestration
 Event-driven Architecture Testing GraphQL Dream big and dare to fail. Scalability A/B Testing Cloud Version Control
 Microservices Automation Performance Predictive Analytics Replica Set Quantum Computing Containerization Load Balancing To be the best, you must be able to handle the worst. Artificial Intelligence Security OAuth
+Logging Dream big and dare to fail. JWT NLP Distributed Systems CI/CD
