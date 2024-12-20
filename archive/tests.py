@@ -4,3 +4,4 @@ React To be the best, you must be able to handle the worst. WebSockets Work hard
 OAuth Load Testing Performance Work hard in silence, let your success be your noise. Security Distributed Systems Dream big and dare to fail. Containerization Microservices GraphQL Quantum Computing
 Blockchain Parallel Processing Difficult roads often lead to beautiful destinations. Testing Innovation distinguishes between a leader and a follower. RabbitMQ Kafka Monitoring Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. NLP
 DevOps Innovation distinguishes between a leader and a follower. Artificial Intelligence IoT API WebSockets CI/CD Great things never come from comfort zones. Load Balancing Distributed Systems NLP
+Algorithm Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Kubernetes If you can dream it, you can do it. NLP React Distributed Systems Containerization
