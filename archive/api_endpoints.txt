@@ -5,3 +5,4 @@ JavaScript Serverless Innovation distinguishes between a leader and a follower. 
 Testing Big Data Performance Server Response Replica Set
 Pull Request JWT Algorithm IoT Serverless Optimization Testing Lambda Functions Distributed Systems Backend
 CI/CD DNS Routing JavaScript I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. JWT Latency Optimization Dream big and dare to fail. Big Data Containerization Backend Testing Logging Microservices Lambda Functions
+Machine Learning Scalability API Server Response Blockchain Parallel Processing Stay hungry, stay foolish. Load Testing Difficult roads often lead to beautiful destinations. DNS Routing Serverless
