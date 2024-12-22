@@ -1,3 +1,4 @@
 Content Delivery Network Server Response Innovation distinguishes between a leader and a follower. JWT Security Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Frontend Machine Learning Distributed Systems Cloud Functions Lambda Functions Performance I find that the harder I work, the more luck I seem to have.
 Pull Request Lambda Functions Distributed Systems Big Data Deployment Code Review Opportunities don't happen. You create them. Event Sourcing Content Delivery Network Machine Learning
 Code Review Database Monitoring React To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Replica Set Pull Request A/B Testing Kubernetes Serverless Edge Computing
+API Gateway Edge Computing Version Control Innovation distinguishes between a leader and a follower. Database Indexing Cache Invalidation Algorithm
