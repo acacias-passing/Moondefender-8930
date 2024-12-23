@@ -4,3 +4,4 @@ NLP JWT Database Indexing Automation Happiness is not something ready made. It c
 Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Algorithm Logging Do what you love and the money will follow.
 Innovation distinguishes between a leader and a follower. Agile Firewalls Framework Cache Invalidation To be the best, you must be able to handle the worst. JWT DNS Routing
 RabbitMQ Act as if what you do makes a difference. It does. Predictive Analytics Agile Container Orchestration
+API Machine Learning Replica Set Predictive Analytics CI/CD Server Response Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Logging Scalability Multi-threading Blockchain Work hard in silence, let your success be your noise.
