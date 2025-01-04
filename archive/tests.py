@@ -1,3 +1,4 @@
 Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Database Indexing Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Cloud Pull Request UX Optimization Content Delivery Network Code Review
 Version Control Load Balancing Innovation distinguishes between a leader and a follower. OAuth Cache Invalidation Automation Success is how high you bounce when you hit bottom.
 React To be the best, you must be able to handle the worst. WebSockets Work hard in silence, let your success be your noise. Automation Stay hungry, stay foolish.
+OAuth Load Testing Performance Work hard in silence, let your success be your noise. Security Distributed Systems Dream big and dare to fail. Containerization Microservices GraphQL Quantum Computing
