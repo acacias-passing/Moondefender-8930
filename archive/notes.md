@@ -1,1 +1,2 @@
 Cache Invalidation Predictive Analytics GraphQL Message Queue Logging Big Data React Framework Kafka Blockchain JavaScript Load Balancing Serverless Happiness is not something ready made. It comes from your own actions. Cloud Functions
+The only way to do great work is to love what you do. Content Delivery Network CI/CD Big Data GraphQL NLP Machine Learning Python Cloud Kubernetes Microservices Kafka Multi-threading
