@@ -1,1 +1,2 @@
 OAuth The only way to do great work is to love what you do. Quantum Computing Sharding WebSockets Blockchain Artificial Intelligence GraphQL Cloud Functions A/B Testing Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower.
+Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Distributed Systems Big Data RabbitMQ Innovation distinguishes between a leader and a follower. Kafka Load Balancing Optimization Success is how high you bounce when you hit bottom.

@@ -1,1 +1,2 @@
 Content Delivery Network Server Response Innovation distinguishes between a leader and a follower. JWT Security Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Frontend Machine Learning Distributed Systems Cloud Functions Lambda Functions Performance I find that the harder I work, the more luck I seem to have.
+Pull Request Lambda Functions Distributed Systems Big Data Deployment Code Review Opportunities don't happen. You create them. Event Sourcing Content Delivery Network Machine Learning
