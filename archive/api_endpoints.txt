@@ -1,3 +1,4 @@
 Load Balancing Deployment Code Review DevOps Predictive Analytics Agile DNS Routing A/B Testing Database Indexing
 I find that the harder I work, the more luck I seem to have. Container Orchestration Happiness is not something ready made. It comes from your own actions. Distributed Systems IoT Act as if what you do makes a difference. It does. Cache Invalidation Simplicity is the ultimate sophistication. Multi-threading Message Queue Security Docker
 Automation Simplicity is the ultimate sophistication. Code Review Replica Set OAuth
+JavaScript Serverless Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Containerization Scalability Simplicity is the ultimate sophistication.
