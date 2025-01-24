@@ -1,1 +1,2 @@
 WebSockets API Gateway Logging Opportunities don't happen. You create them. Lambda Functions DevOps Backend Database CI/CD I find that the harder I work, the more luck I seem to have. API Difficult roads often lead to beautiful destinations. Quantum Computing Kubernetes Kafka
+Deployment UX Optimization DNS Routing Zero Downtime Deployment Automation Code Review If you can dream it, you can do it. To be the best, you must be able to handle the worst. Cloud Load Balancing API Version Control
