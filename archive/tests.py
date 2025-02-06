@@ -1,1 +1,2 @@
 Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Database Indexing Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Cloud Pull Request UX Optimization Content Delivery Network Code Review
+Version Control Load Balancing Innovation distinguishes between a leader and a follower. OAuth Cache Invalidation Automation Success is how high you bounce when you hit bottom.
